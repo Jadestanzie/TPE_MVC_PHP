@@ -1,0 +1,15 @@
+.billet
+{
+    border-radius: 10px;
+    padding : 10px;
+    background-color: rgba(0,0,0,0.2);
+    box-shadow: 0.2,0.2,0.2,rgba(200,200,200,0.2);
+    color: white;
+    margin: 5px;
+}
+
+.billet h2
+{
+    color : #0069d9;
+    opacity: 0.5;
+}
